@@ -1,0 +1,32 @@
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\bin\Debug\Quize game in windows forms.exe.config
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\bin\Debug\Quize game in windows forms.exe
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\bin\Debug\Quize game in windows forms.pdb
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.AssemblyReference.cache
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\MainWindow.g.cs
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\App.g.cs
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms_Content.g.cs
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms_MarkupCompile.cache
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms_MarkupCompile.lref
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\MainWindow.baml
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.g.resources
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize_game_in_windows_forms.Properties.Resources.resources
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.GenerateResource.cache
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.CoreCompileInputs.cache
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.exe
+D:\software install\c# core games from scratch\quize game\Quize game in windows forms\Quize game in windows forms\obj\Debug\Quize game in windows forms.pdb
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\bin\Debug\Quize game in windows forms.exe.config
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\bin\Debug\Quize game in windows forms.exe
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\bin\Debug\Quize game in windows forms.pdb
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.AssemblyReference.cache
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\MainWindow.g.cs
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\App.g.cs
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms_Content.g.cs
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms_MarkupCompile.cache
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms_MarkupCompile.lref
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\MainWindow.baml
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.g.resources
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize_game_in_windows_forms.Properties.Resources.resources
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.GenerateResource.cache
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.csproj.CoreCompileInputs.cache
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.exe
+D:\software install\c# core games from scratch\quize game\WPF Balloon poping game\Quize game in windows forms\obj\Debug\Quize game in windows forms.pdb
