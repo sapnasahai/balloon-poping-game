@@ -1,2 +1,2 @@
 # balloon-poping-game
-i used WPS to make this using c#
+i used WPS to make this game using c#
